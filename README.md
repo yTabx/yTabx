@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning web dedvelopment
 - 💞️ I’m looking to collaborate on any interesting projects where I can be of help 
 - 📫 How to reach me @ niyamabo@gmail.com
-- most of my commits are under yTabx or Nicholas I
+- commits are under yTabx or Nicholas I
