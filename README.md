@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Nicholas Iyamabo
-- 👀 I’m interested in Software and web development
-- 🌱 I’m currently learning web dedvelopment
-- 💞️ I’m looking to collaborate on any interesting projects where I can be of help 
-- 📫 How to reach me @ niyamabo@gmail.com
-- commits are under yTabx or Nicholas I
+Welcome to the profile
+- 👀 I’m a fulltime Software Engineer, Here I just mess arround :) 
+- 📖 Ofc also Researching AI stuff Since thats the trendy thing atm 
+- 💞️ Reach out if you interested in collaborating  
+- 📫 How to reach me niyamabo@gmail.com
+
